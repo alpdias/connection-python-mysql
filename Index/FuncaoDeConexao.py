@@ -10,6 +10,6 @@ def RetornarConexaoMySQL():
         user = 'root', # Usuário.
         passwd = '', # Senha.
     )
-    cursor = conexao.cursor() # Variável que recebe a conexão MySQL.
+    cursor = conexao.cursor() # Recebe a conexão MySQL.
     return cursor
 
