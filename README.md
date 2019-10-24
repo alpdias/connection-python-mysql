@@ -1,5 +1,5 @@
 # conexao-python-sql
-Script para realizar uma conexão entre um banco de dados utilizando o MySQL através de um código escrito em Python.
+Script para realizar uma conexão entre um banco de dados utilizando o MySQL e um código escrito em Python.
 
 * Conexão Python e MySQL.py: Código simples explicando como é feita a conexão.
 * FuncaoDeConexao.py: Códido de função para realizar a conexão.
@@ -16,7 +16,7 @@ Para utilizar a biblioteca 'pymysql' execute o comando:
 
 --------------------------------------------------------
 
-Script to make a connection between a database using MySQL through code written in Python.
+Script to make a connection between a database using MySQL and code written in Python.
 
 * Conexão Python e MySQL.py: Simple code explaining how the connection is made.
 * FuncaoDeConexao.py: Function code to make the connection.
