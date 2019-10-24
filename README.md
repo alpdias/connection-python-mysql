@@ -1,2 +1,2 @@
 # conexao-python-sql
-Script para realizar conexão de banco de dados MySQL a código Python 
+Script para realizar conexão de um banco de dados utilizando o MySQL através de um em código Python
