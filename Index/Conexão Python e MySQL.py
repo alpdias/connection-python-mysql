@@ -10,8 +10,8 @@ conexao = pymysql.connect(
     user = 'root', # Usuário.
     passwd = '', # Senha.
 )
-cursor = conexao.cursor() # Variável 'cursor' recebe a conexão MySQL.
-cursor.execute('SELECT * FROM pessoas') # Variável que envia comando ao MySQL.
+cursor = conexao.cursor() # Recebe a conexão MySQL.
+cursor.execute('SELECT * FROM pessoas') # Envia comando ao MySQL.
 
 for resultado in cursor: # Mostra o resultado solicitado.
     print(resultado)
