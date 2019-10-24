@@ -12,7 +12,7 @@ Observação: Para criar o sevidor local foi utilizado o XAMPP.
 
 Para utilizar a biblioteca 'pymysql' execute o comando:
 
->>> pip install pymysql
+> pip install pymysql
 
 --------------------------------------------------------
 
@@ -29,4 +29,4 @@ Python 3.7.4 / Microsoft VSCode 1.38.1 / Códificação: -- coding: utf-8 -- / P
 
 To use the library 'pymysql' run the command: 
 
->>> pip install pymysql
+> pip install pymysql
