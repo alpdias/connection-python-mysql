@@ -2,7 +2,10 @@
 
 Script para realizar uma conexão entre um banco de dados utilizando o MySQL e um código escrito em Python.
 
-Python 3.7.4 / Microsoft VSCode 1.38.1 / Códificação: -- coding: utf-8 -- / PT-BR
+Python 3.7.4 </br>
+Microsoft VSCode 1.38.1 </br>
+Códificação: -- coding: utf-8 -- </br>
+PT-BR </br>
 
 Para utilizar a biblioteca 'pymysql' execute o comando:
 
@@ -12,7 +15,10 @@ Para utilizar a biblioteca 'pymysql' execute o comando:
 
 Script to make a connection between a database using MySQL and code written in Python.
 
-Python 3.7.4 / Microsoft VSCode 1.38.1 / Códificação: -- coding: utf-8 -- / PT-BR
+Python 3.7.4 </br>
+Microsoft VSCode 1.38.1 </br>
+Códificação: -- coding: utf-8 -- </br>
+PT-BR </br>
 
 To use the library 'pymysql' run the command: 
 
