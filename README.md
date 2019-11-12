@@ -11,7 +11,7 @@ Para utilizar a biblioteca 'pymysql' execute o comando:
 
 > pip install pymysql
 
---------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 Script to make a connection between a database MySQL and code written in Python.
 
@@ -23,3 +23,5 @@ PT-BR </br>
 To use the library 'pymysql' run the command: 
 
 > pip install pymysql
+
+------------------------------------------------------------------------------------------------------------------------------
