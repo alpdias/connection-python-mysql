@@ -1,3 +1,6 @@
+'''
+@Autor: Paulo https://github.com/alpdias
+'''
 import pymysql # Biblioteca de conexão Python e MySQL.
 
 # Script para fazer a conexão.
