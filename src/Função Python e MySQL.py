@@ -1,6 +1,7 @@
 '''
 @Autor: Paulo https://github.com/alpdias
 '''
+# Função para realizar a conexão em um código Python e um banco de dado MySQL.
 def RetornarConexaoMySQL():
     import pymysql # Biblioteca de conexão entre o servidor do MySQL e o Python.
     conexao = pymysql.connect( # Variável que recebe as configurações de conexão.
