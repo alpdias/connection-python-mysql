@@ -13,6 +13,8 @@ Para utilizar a biblioteca 'pymysql' execute o comando:
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+# Python & MySQL Connection 
+
 Script to make a connection between a database MySQL and code written in Python.
 
 Python 3.7.4 </br>
