@@ -1,3 +1,5 @@
+-- @Autor: Paulo https://github.com/alpdias
+
 CREATE TABLE pessoas (
 id int(11) NOT NULL AUTO_INCREMENT,
 nome varchar(30) NOT NULL,
