@@ -1,6 +1,6 @@
 # Conexão Python & MySQL
 
-Script para realizar uma conexão entre um banco de dados MySQL e um código escrito em Python.
+Utilizando a biblioteca "locale"para realizar uma conexão entre um banco de dados MySQL e um código escrito em Python
 
 Python 3.7.4 </br>
 Microsoft VSCode 1.38.1 </br>
@@ -15,7 +15,7 @@ Para utilizar a biblioteca 'pymysql' execute o comando:
 
 # Python & MySQL connection 
 
-Script to make a connection between a database MySQL and code written in Python.
+Using the locale library to make a connection between a MySQL database and code written in Python
 
 Python 3.7.4 </br>
 Microsoft VSCode 1.38.1 </br>
