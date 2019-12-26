@@ -4,7 +4,7 @@ Utilizando a biblioteca "locale"para realizar uma conexão entre um banco de dad
 
 Python 3.7.4 </br>
 Microsoft VSCode 1.38.1 </br>
-Coding: -&lowast;- coding: utf-8 -&lowast;- </br>
+Codificação: -&lowast;- coding: utf-8 -&lowast;- </br>
 PT-BR </br>
 
 Para utilizar a biblioteca 'pymysql' execute o comando:
