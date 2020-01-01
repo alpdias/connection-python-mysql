@@ -13,7 +13,7 @@ def retornarConexao():
     cursor = conexao.cursor() # Recebe a conexão MySQL.
     return cursor
 
-print('')
+
 cursor = retornarConexao() # Recebe a conexão MySQL dentro da função.
 resultado = cursor.execute('SELECT * FROM pessoas') # Recebe a solicitação dentro do MySQL para vizualizar a tabela.
 print('')
