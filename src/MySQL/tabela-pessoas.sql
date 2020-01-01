@@ -1,4 +1,4 @@
--- @Autor: Paulo https://github.com/alpdias
+-- Criar a tabela
 
 CREATE TABLE pessoas (
 id int(11) NOT NULL AUTO_INCREMENT,
@@ -12,7 +12,11 @@ nacionalidade varchar(20) DEFAULT 'Brasil',
 PRIMARY KEY (id)
 );
 
+-- Vizualiar a tabela
+
 SELECT * FROM pessoas;
+
+-- Inserir valores na tabela
 
 INSERT INTO pessoas VALUES 
 (1,'Daniel Morais','Auxiliar Administrat','1984-01-02','M',78.50,1.83,'Brasil'),
