@@ -7,7 +7,7 @@ Microsoft VSCode 1.38.1 </br>
 Codificação: -&lowast;- coding: utf-8 -&lowast;- </br>
 pt-BR </br>
 
-Para utilizar a biblioteca 'pymysql' execute o comando:
+<strong>Módulos Python</strong>
 
 > pip install pymysql
 
@@ -22,7 +22,7 @@ Microsoft VSCode 1.38.1 </br>
 Coding: -&lowast;- coding: utf-8 -&lowast;- </br>
 pt-BR </br>
 
-To use the library 'pymysql' run the command: 
+<strong>Python modules</strong>
 
 > pip install pymysql
 
